@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "typeinfo": "cpp"
+    }
+    "[cpp]": {
+        "files.encoding": "gbk"
+    },
+}
